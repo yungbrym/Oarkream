@@ -9,16 +9,16 @@ const Header = () => {
     <div className='gpa_header-content'>
       <h1 className='gradient__text'>
        
-        tdtdtd Have a taste of the best, by letting Arkream deal with your logistics
+         Have a taste of the best, by letting Arkream deal with your logistics
         from USA
       </h1>
       <p>What if you could spend less time trying to source for foreign 
-        currency for your onfgdfsdfgdgfline payments, coupled with easy and an prompt delivery process 
+        currency for your online payments, coupled with easy and an prompt delivery process 
         from EBAY and ather shopping site in the USA.</p>
       
       <div className='gpa__header-content__people'>
         <img src={people} alt='people'/>
-        <p >Over 1000 satisfied customers</p>
+        <p >Over 2000 satisfied customers</p>
       </div>
     </div>
     <div className='gpa__header-image'>
