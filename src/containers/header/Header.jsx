@@ -13,7 +13,7 @@ const Header = () => {
         from USA
       </h1>
       <p>What if you could spend less time trying to source for foreign 
-        currency for your online payments, coupled with easy and an prompt delivery process 
+        currency for your onfgdfsdfgdgfline payments, coupled with easy and an prompt delivery process 
         from EBAY and ather shopping site in the USA.</p>
       
       <div className='gpa__header-content__people'>
