@@ -9,7 +9,7 @@ const Header = () => {
     <div className='gpa_header-content'>
       <h1 className='gradient__text'>
        
-        Have a taste of the best, by letting Arkream deal with your logistics
+        tdtdtd Have a taste of the best, by letting Arkream deal with your logistics
         from USA
       </h1>
       <p>What if you could spend less time trying to source for foreign 
